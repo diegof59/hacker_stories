@@ -15,6 +15,6 @@
       num_comments: 2,
       objectID: "1",
     },
-    ...
+    '...'
   ]
 }
